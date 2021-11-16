@@ -1,0 +1,14 @@
+{
+  "name": "my_tdd",
+  "version": "1.0.0",
+  "description": "Testing and Development",
+  "main": "id.js",
+  "scripts": {
+    "test": "jest" 
+  },
+  "author": "Robert Weston",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
